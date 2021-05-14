@@ -1,11 +1,10 @@
-Busy coding:
+I merge technology, design and creative arts, and try to have fun with them.
+
+Sometimes I'm busy coding:
 
 <img src=https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif height=256 />
 
-- 👋 Hi, I’m @pbaitor
-- 👀 I’m interested in building stuff
-- 🌱 I’m currently learning artificial intelligence
-- 📫 Get to know more about me at [aitorperez.com](https://aitorperez.com)
+📫 Get to know more about me at [aitorperez.com](https://aitorperez.com)
 
 
 
