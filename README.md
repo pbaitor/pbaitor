@@ -1,9 +1,11 @@
+Busy coding:
+
 <img src=https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif height=256 />
 
 - 👋 Hi, I’m @pbaitor
 - 👀 I’m interested in building stuff
 - 🌱 I’m currently learning artificial intelligence
-- 📫 Get to know more about me at [https://aitorperez.com](aitorperez.com)
+- 📫 Get to know more about me at [aitorperez.com](https://aitorperez.com)
 
 
 
