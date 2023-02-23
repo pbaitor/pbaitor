@@ -1,6 +1,6 @@
 I merge technology, design and creative arts, and try to have fun with them.
 
-Sometimes I'm busy coding:
+Even if I am a Product Designer, sometimes I'm busy coding. Like this:
 
 <img src=https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif height=256 />
 
